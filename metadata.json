@@ -1,0 +1,5 @@
+{
+  "name": "Code Editor",
+  "description": "A lightweight, AI-powered code editor with syntax highlighting and Gemini-assisted coding features.",
+  "requestFramePermissions": []
+}
